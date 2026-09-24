@@ -1,4 +1,4 @@
-spring.datasource.url=jdbc:mariadb://database-2.caj68k4a82c9.us-east-1.rds.amazonaws.com:3306/student_db?sslMode=REQUIRED
+spring.datasource.url=jdbc:mariadb://database-1.clqgogmmchz6.us-east-2.rds.amazonaws.com:3306/student_db?sslMode=REQUIRED
 spring.datasource.username=admin
 spring.datasource.password=12345678
 spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
